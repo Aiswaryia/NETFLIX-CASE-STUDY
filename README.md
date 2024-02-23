@@ -8,16 +8,27 @@ This project aims to analyze a dataset containing information about movies and T
 The dataset includes the following columns:
 
 Show_id: Unique identifier for each movie/TV show
+
 Type: Identifier indicating whether it's a movie or TV show
+
 Title: Title of the movie/TV show
+
 Director: Director(s) of the movie
+
 Cast: Actors involved in the movie/TV show
+
 Country: Country where the movie/TV show was produced
+
 Date_added: Date the content was added on Netflix
+
 Release_year: Actual release year of the movie/TV show
+
 Rating: TV rating of the movie/TV show
+
 Duration: Total duration (in minutes for movies, number of seasons for TV shows)
+
 Listed_in: Genre(s) of the content
+
 Description: Summary description of the content
 
 **Analysis**:
